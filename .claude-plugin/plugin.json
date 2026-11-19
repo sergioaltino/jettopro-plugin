@@ -1,0 +1,9 @@
+{
+  "name": "jettopro",
+  "displayName": "JettoPro",
+  "version": "1.0.0",
+  "description": "Consulte e atualize os seus projetos do JettoPro numa conversa: prazos, itens, riscos, mudanças, horas e a base de conhecimento, com as suas permissões.",
+  "author": { "name": "Netcode", "url": "https://app.jettopro.com.br" },
+  "homepage": "https://app.jettopro.com.br/ajuda/conectores",
+  "license": "MIT"
+}

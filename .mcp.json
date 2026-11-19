@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "jettopro": {
+      "type": "http",
+      "url": "https://mcp.jettopro.com.br/mcp"
+    }
+  }
+}
